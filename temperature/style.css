@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ .main1{
+   border: 30px;
+   border-color: rgb(15, 250, 172);
+ }
+ body{
+     color: white;
+     text-align: center;
+     /*background-color: pink;*/
+     background-repeat: no-repeat;
+     background-position: center;
+     background-image: url('D:\WT\temperature\wall.jpg');
+     margin-bottom: 170px;
+     background-size:cover;
+ }
+ 
+ .header1{
+     padding-top: 300px;
+     color: rgb(209, 21, 219);
+ }
+ .temp1{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: rgb(7, 6, 6);
+     background-color:lavenderblush;
+     border-radius: 4px; 
+ }
+ .main2{
+     padding-top: 15px;
+     padding-right: 100px;
+     align-items: center;
+     justify-content: space-between;
+ }
+ label
+ {
+     font-size: 30px;
+     color: rgb(46, 210, 210);
+ }
+ .para1{
+     font-size: 30px; 
+ }
+ .temp2{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: rgb(5, 4, 4);
+     background-color: lavenderblush;
+     border-radius: 4px; 
+     margin-left: 10px;
+ }
+ .main3{
+     padding-top: 15px;
+     padding-right: 100px;
+ }
+ .para2{
+     font-size: 30px;
+ }
+ .input1{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: rgb(1, 43, 255);
+     background-color: white;
+     border-radius: 4px;  
+     margin-left: 25px;
+ }
+ .input2{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: rgb(1, 43, 255);
+     background-color: white;
+     border-radius: 4px; 
+     margin-left: 25px;
+ }
+ .convert{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: white;
+     background-color: rgba(248, 253,107);
+     border-radius: 4px; 
+     background-color:rgb(29, 215, 235);
+ }
+ .reset{
+     border: 3;
+     outline: 0;
+     padding: 6px 21px;
+     font-size: 13px;
+     color: white;
+     background-color: rgba(248,253,107);
+     border-radius: 4px; 
+     background-color: rgb(232, 121, 85);
+ }
+ .main4{
+     padding-top: 20px;
+     padding-right: 30px;
+ }
